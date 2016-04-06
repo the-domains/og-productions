@@ -1,6 +1,6 @@
 name: OG Productions
 favicon: null
-layout_spectrum: 0.17684916174039245
+layout_spectrum: 0.01455
 typography_spectrum: 0.32641929434612393
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.3294104519300163
-  lightness: 0.2932975902222097
-  saturation: 0.09462515148334205
-  rhythmicContrast: 0.07480866461992264
+  brandStrength: 0.8125
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
